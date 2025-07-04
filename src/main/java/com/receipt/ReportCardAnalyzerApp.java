@@ -200,7 +200,7 @@ public class ReportCardAnalyzerApp extends Frame {
 
         result.append("📋 STUDENT REPORT ANALYSIS\n");
         result.append("=================================\n");
-
+       // System.out.println("added for github");
 
         result.append("👤 Student Details:\n");
         result.append("------------------------\n");
